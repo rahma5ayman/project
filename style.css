@@ -1,0 +1,148 @@
+body{
+  position: relative;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+     background-color: rgba(118, 175, 255, 0.405); 
+
+}
+
+.total{
+  background-color: rgb(255, 255, 255);
+  width: 350px;
+  height: 530px;
+  border-radius: 15px;
+}
+
+.pepole{
+  width: 350px;
+height: 170px;
+}
+
+.heading{
+  text-align: center;
+}
+
+.hone{
+color: rgb(0, 0, 99);
+font-size: xx-large;
+}
+
+.pone{
+  color: rgba(0, 0, 255, 0.707);
+}
+
+.music{
+background-color: rgb(238, 238, 238);
+width: 290px;
+height: 80px;
+margin: auto;
+border-radius: 12px;
+display: flex;
+justify-content:
+}
+
+.mu2{
+height: 25px;
+margin-top: 10%;
+position: relative;
+left: 12px;
+}
+
+
+.htwo{
+  position: relative;
+left: 27px;
+
+}
+
+.hthree{
+position: relative;
+bottom: 16px;
+color: rgb(135, 135, 135);
+}
+
+.move{
+background-color: rgb(58, 52, 228);
+width:290px ;
+height: 40px;
+margin: auto;
+border-radius: 12px;
+transition: all 1s;
+}
+
+.move:hover{
+  background-color: rgba(63, 63, 255, 0.842);
+}
+
+.hfore{
+  
+ display: flex;
+justify-content: center;
+position: relative;
+top: 8px;
+color: white; 
+
+}
+
+.link2{
+  text-decoration: none;
+  display: flex;
+justify-content: center;
+
+}
+ 
+.link{
+
+position: relative;
+left: 110px;
+top: 30px;
+color: rgb(43, 83, 226);
+}
+
+
+
+
+
+
+
+
+
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ /* body{
+  margin:0 ;
+  
+} 
+
+
+.log{
+ width:800px ;
+height: 712px;
+position: relative;
+left: 390px;
+
+}
+
+.heading{
+  position: relative;
+  bottom: 450px;
+  left: 460px;
+  font-size: 80px;
+  color: rgb(255, 97, 40);
+} */
+
